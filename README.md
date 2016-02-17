@@ -13,6 +13,7 @@ out=rssq(in,orientation)
 
 Arguments
 Input:
+
 •	in
                Vector or Matrix of real or complex elements.
 
@@ -24,7 +25,9 @@ Input:
 
 
 Output:
+
 	out
+
 a scalar with real value when input is a vector.
 when input is a matrix, out is root sum squared value along the orientation specified or the default one when not specified.
 
