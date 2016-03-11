@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY a323124fd066b344e64c7fb9edee2dacb SYSTEM "file:///C:/Users/indira askaukar/Documents/pls/toolboc/peak2rms.xml">
+<!ENTITY a139994e9f5a91f403b2d1d50efcd811d SYSTEM "file:///C:/Users/indira askaukar/Documents/pls/toolboc/rssq.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="toolboc"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='signal_processing_manual'>
+    <title>Signal Processing</title>
+  </info>
+
+<part xml:id='section_c69472e279a878c55854fb2fd1558d2d'>
+<title>Signal Processing</title>
+&a323124fd066b344e64c7fb9edee2dacb;
+&a139994e9f5a91f403b2d1d50efcd811d;
+</part>
+</book>
