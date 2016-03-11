@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY adbb8429714a722295b1300536445a716 SYSTEM "file:///C:/Users/indira askaukar/Documents/macross/toolboxhelp/peak2rms.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="toolboxhelp"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='signal_processing_manual'>
+    <title>Signal Processing</title>
+  </info>
+
+<part xml:id='section_7d33954893f5e7bb17a7ddbd5331a010'>
+<title>Signal Processing</title>
+&adbb8429714a722295b1300536445a716;
+</part>
+</book>
